@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: non-primitive
+- text: primitive
+- text: object constructor
+- text: literal notation
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8590#comment
+status: Solved
+record: -1
+local_check: false
